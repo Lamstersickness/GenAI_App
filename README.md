@@ -3,7 +3,24 @@
 Your all-in-one AI-powered tool for **summarization**, **generation**, and **assistant tasks**, built using **Python**, **Streamlit**, and **OpenAI APIs**.
 
 (static/logo.jpg)
+## Text_Summarizer
 ![image](https://github.com/user-attachments/assets/0380b64c-75c1-4e29-b458-566745c793ef)
+
+## YT_Summarizer
+![image](https://github.com/user-attachments/assets/d08b9452-3143-46df-9c39-16e915c13c79)
+
+## Article Summarizer
+![image](https://github.com/user-attachments/assets/a76c22cd-077a-41c5-8734-a0edf7560e97)
+
+## Image generator
+![image](https://github.com/user-attachments/assets/7940a14b-3cf0-4293-bc9f-406537c47143)
+![image](https://github.com/user-attachments/assets/ca0ae859-078d-4b94-895f-4ad8fbe481de)
+
+## Audio Generator
+![image](https://github.com/user-attachments/assets/edfa63b6-9b54-4b67-8ce6-94f44ea66253)
+
+## Document QnA Assistant
+![image](https://github.com/user-attachments/assets/8b53b85c-06a1-4ea9-b2b4-92c2d6e9298d)
 
 
 ---
