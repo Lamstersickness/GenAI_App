@@ -3,6 +3,8 @@
 Your all-in-one AI-powered tool for **summarization**, **generation**, and **assistant tasks**, built using **Python**, **Streamlit**, and **OpenAI APIs**.
 
 (static/logo.jpg)
+![image](https://github.com/user-attachments/assets/0380b64c-75c1-4e29-b458-566745c793ef)
+
 
 ---
 
